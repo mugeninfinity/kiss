@@ -21,13 +21,13 @@ If problem is not solved, please [open an issue](https://github.com/aviaryan/Kis
 Go to an anime page on KissAnime (eg http://kissanime.ru/Anime/Haikyuu), then open JavaScript console and run 
 
 ```js
-$.getScript("https://rawgit.com/aviaryan/Kissanime-Batch-Downloader/master/kissanime.js")
+$.getScript("https://rawgit.com/mugeninfinity/kiss/master/kissanime.js")
 ```
 
 For cartoons, go to a cartoon page on KissCartoon (eg http://kisscartoon.se/Cartoon/Shimmer-and-Shine-Season-2), then open JavaScript console and run
 
 ```js
-$.getScript("https://rawgit.com/aviaryan/Kissanime-Batch-Downloader/master/kisscartoon.js")
+$.getScript("https://rawgit.com/mugeninfinity/kiss/master/kisscartoon.js")
 ```
 
 For KissAsian, go to a series listing page (eg http://kissasian.com/Drama/My-Bromance-The-Series), then open JavaScript console and run
